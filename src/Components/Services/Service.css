@@ -1,0 +1,13 @@
+.card-design-university{
+    border-radius: 10px 10px 10px 10px;
+}
+
+.card-design-services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    color:#496CBE;
+    font-weight: 700;
+    flex-direction: row;
+}
